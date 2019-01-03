@@ -1,0 +1,22 @@
+//************************************************************************************
+//
+//                  config.h (Header File)
+//
+//************************************************************************************
+//  FileName:           config.h
+//  Compiler:           Keil
+//  Target Hardware:    ARM7 development board
+//  Company:            ENTESLA
+//  website:            www.entesla.com
+//  email:              feedbackATenteslaDOTcom
+//************************************************************************************
+
+#ifndef CONFIG_H
+#define CONFIG_H
+    
+    #include <LPC214x.h>
+    #include "clcd.h"
+	#include "i2c.h"
+	#include "eeprom.h"
+    
+#endif  //  CONFIG_H
