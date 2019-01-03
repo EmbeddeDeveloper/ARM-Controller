@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\Products\Current\Product CD\ARM7 Development Board\ARM7 Dev Board\Firmware v1.0\Source Code\LEDs\leds.uvproj
+Project File Date:  01/10/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+linking...
+Program Size: Code=916 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"leds.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\Products\\Current\\Product CD\\ARM7 Development Board\\ARM7 Dev Board\\Firmware v1.0\\Source Code\\LEDs\\leds.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.

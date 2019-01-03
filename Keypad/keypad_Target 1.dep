@@ -1,0 +1,8 @@
+Dependencies for Project 'keypad', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4C80E0AC)(--cpu ARM7TDMI -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\main.c)(0x4DBF9CFC)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (config.h)(0x4DBEF74F)
+I (C:\Keil\ARM\INC\Philips\LPC214x.h)(0x4C80E12A)
+F (.\config.h)(0x4DBEF74F)()
+F (.\clcd.c)(0x4DBB59CA)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o "clcd.o" --omf_browse "clcd.crf" --depend "clcd.d")
+F (.\clcd.h)(0x4DBA35E2)()

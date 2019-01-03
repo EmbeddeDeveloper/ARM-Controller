@@ -1,0 +1,5 @@
+Dependencies for Project 'leds', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4C80E0AC)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "F:\Keil-8051\ARM\INC" -I "F:\Keil-8051\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\main.c)(0x50783C00)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "F:\Keil-8051\ARM\INC" -I "F:\Keil-8051\ARM\INC\Philips" -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (F:\Keil-8051\ARM\INC\Philips\LPC214x.h)(0x4C80E12A)
+F (.\config.h)(0x00000000)()
