@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "clcd.o" "main.o" --strict --scatter "lcd 4-bit mode.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lcd 4-bit mode.map" -o "lcd 4-bit mode.axf"
