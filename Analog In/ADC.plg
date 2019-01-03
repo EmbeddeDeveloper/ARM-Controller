@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\Products\Current\Product CD\ARM7 Development Board\ARM7 Dev Board\Firmware v1.0\Source Code\Analog In\ADC.uvproj
+Project File Date:  04/30/2011
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+compiling adc.c...
+compiling clcd.c...
+clcd.c(246): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=5896 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+"ADC.axf" - 0 Error(s), 1 Warning(s).
+"LPC210x_ISP.EXE" "F:\Products\Current\Product CD\ARM7 Development Board\ARM7 Dev Board\Firmware v1.0\Source Code\Analog In\ADC.HEX" 12000 LPC2138 COM1: 38400 1
+--- Error: failed to execute '"LPC210x_ISP.EXE" "F:\Products\Current\Product CD\ARM7 Development Board\ARM7 Dev Board\Firmware v1.0\Source Code\Analog In\ADC.HEX" 12000 LPC2138 COM1: 38400 1'
+Load "F:\\Products\\Current\\Product CD\\ARM7 Development Board\\ARM7 Dev Board\\Firmware v1.0\\Source Code\\Analog In\\ADC.AXF" 
+Full Chip Erase Done.
+No Algorithm found for: 00000000H - 0000172BH
+Programming skipped!
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+compiling adc.c...
+compiling clcd.c...
+clcd.c(246): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=5896 RO-data=32 RW-data=4 ZI-data=1260  
+FromELF: creating hex file...
+"ADC.axf" - 0 Error(s), 1 Warning(s).
+Load "F:\\Products\\Current\\Product CD\\ARM7 Development Board\\ARM7 Dev Board\\Firmware v1.0\\Source Code\\Analog In\\ADC.AXF" 
+Full Chip Erase Done.
+No Algorithm found for: 00000000H - 0000172BH
+Programming skipped!
+Load "F:\\Products\\Current\\Product CD\\ARM7 Development Board\\ARM7 Dev Board\\Firmware v1.0\\Source Code\\Analog In\\ADC.AXF" 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
