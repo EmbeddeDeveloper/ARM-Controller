@@ -1,0 +1,9 @@
+mmaspi.o: mmaspi.c
+mmaspi.o: mmaspi.h
+mmaspi.o: config.h
+mmaspi.o: C:\Keil\ARM\INC\Philips\LPC214x.h
+mmaspi.o: C:\Keil\ARM\RV31\INC\string.h
+mmaspi.o: spi0.h
+mmaspi.o: mmaspi.h
+mmaspi.o: uart.h
+mmaspi.o: clcd.h

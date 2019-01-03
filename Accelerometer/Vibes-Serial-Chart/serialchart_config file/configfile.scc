@@ -1,0 +1,24 @@
+[_setup_]
+port=COM6
+baudrate=9600
+width=2500
+height=500
+background_color = white
+grid_h_origin = 0
+grid_h_step = 20
+grid_h_color = #EEE
+grid_h_origin_color = #CCC
+grid_v_origin = 0
+grid_v_step = 20
+grid_v_color = #EEE
+grid_v_origin_color = transparent
+
+[_default_]
+min=-80
+max=80
+
+[Field1]
+color=red
+
+[Field2]
+color=blue

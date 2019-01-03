@@ -1,0 +1,24 @@
+*** Creating Trace Output File 'vibes_log.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"mmaspi.o"'
+### List of Objects: adding '"spi0.o"'
+### List of Objects: adding '"uart.o"'
+### List of Objects: adding '"clcd.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "main.o" "mmaspi.o" "spi0.o" "uart.o" "clcd.o" --strict --scatter "vibes_log.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\vibes_log.map" -o "vibes_log.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'vibes_log.axf'
+### ADS-LD Command File: 'vibes_log.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'vibes_log.lnp', Handle=0x00000198
+### Writing '.lnp' file
+### ADS-LD Command file 'vibes_log.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
