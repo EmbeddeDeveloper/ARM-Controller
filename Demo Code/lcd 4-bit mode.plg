@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\WW\Desktop\ARM7 Dev Board\Source Code\Demo Code\demo code.uvproj
+Project File Date:  04/19/2011
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling clcd.c...
+clcd.c(246): warning:  #186-D: pointless comparison of unsigned integer with zero
+compiling main.c...
+linking...
+Program Size: Code=4440 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"demo.axf" - 0 Error(s), 1 Warning(s).
